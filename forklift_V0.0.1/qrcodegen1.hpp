@@ -1,0 +1,4 @@
+#ifndef QRCODEGEN1_HPP
+#define QRCODEGEN1_HPP
+
+#endif // QRCODEGEN1_HPP

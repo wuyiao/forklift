@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>ui/error.png</file>
+        <file>ui/r1.png</file>
+        <file>ui/r2.png</file>
+        <file>ui/r3.png</file>
+        <file>ui/r4.png</file>
+        <file>ui/r5.png</file>
+        <file>ui/r6.png</file>
+        <file>ui/r7.png</file>
+        <file>ui/r8.png</file>
+        <file>ui/w1.png</file>
+        <file>ui/w2.png</file>
+        <file>ui/w3.png</file>
+        <file>ui/w4.png</file>
+        <file>ui/w5.png</file>
+        <file>ui/w6.png</file>
+        <file>ui/w7.png</file>
+        <file>ui/w8.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>ui/main.png</file>
+        <file>ui/error_face.png</file>
+        <file>ui/QR.png</file>
+        <file>ui/start_face.png</file>
+        <file>ui/succees_face.png</file>
+        <file>ui/bind.png</file>
+        <file>ui/b_i.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>ui智能叉车安全系统/1.png</file>
+        <file>ui智能叉车安全系统/1备份.png</file>
+        <file>ui智能叉车安全系统/1备份 2.png</file>
+        <file>ui智能叉车安全系统/1备份 3.png</file>
+        <file>ui智能叉车安全系统/1备份 4.png</file>
+        <file>ui智能叉车安全系统/1备份 5.png</file>
+        <file>ui智能叉车安全系统/1备份 6.png</file>
+        <file>ui智能叉车安全系统/1备份 7.png</file>
+        <file>ui智能叉车安全系统/1备份 8.png</file>
+        <file>ui智能叉车安全系统/1备份 9.png</file>
+        <file>ui智能叉车安全系统/1备份 10.png</file>
+        <file>ui智能叉车安全系统/1备份 11.png</file>
+        <file>ui智能叉车安全系统/人脸识别.png</file>
+        <file>ui智能叉车安全系统/人脸识别(1).png</file>
+        <file>ui智能叉车安全系统/人脸识别失败.png</file>
+        <file>ui智能叉车安全系统/人脸识别失败(1).png</file>
+        <file>ui智能叉车安全系统/人脸识别成功.png</file>
+        <file>ui智能叉车安全系统/人脸识别成功(1).png</file>
+        <file>ui智能叉车安全系统/具体叉车信息-人员选择.png</file>
+        <file>ui智能叉车安全系统/具体叉车信息-人脸.png</file>
+        <file>ui智能叉车安全系统/具体叉车信息-围栏.png</file>
+        <file>ui智能叉车安全系统/具体叉车信息-授权.png</file>
+        <file>ui智能叉车安全系统/具体叉车信息-疲劳.png</file>
+        <file>ui智能叉车安全系统/具体叉车信息-证件.png</file>
+        <file>ui智能叉车安全系统/具体叉车信息-速度.png</file>
+        <file>ui智能叉车安全系统/出车前检查.png</file>
+        <file>ui智能叉车安全系统/出车前检查-弹窗.png</file>
+        <file>ui智能叉车安全系统/出车日期备份.png</file>
+        <file>ui智能叉车安全系统/叉车信息-疲劳.png</file>
+        <file>ui智能叉车安全系统/叉车屏幕-当前信息.png</file>
+        <file>ui智能叉车安全系统/图标.png</file>
+        <file>ui智能叉车安全系统/工作页面.png</file>
+        <file>ui智能叉车安全系统/工作页面-报警.png</file>
+        <file>ui智能叉车安全系统/手机登录-正在识别.png</file>
+        <file>ui智能叉车安全系统/手机登录-验证失败.png</file>
+        <file>ui智能叉车安全系统/手机登录-验证成功.png</file>
+        <file>ui智能叉车安全系统/机登录-选择车辆.png</file>
+        <file>ui智能叉车安全系统/疲劳驾驶.png</file>
+        <file>ui智能叉车安全系统/疲劳驾驶备份.png</file>
+        <file>ui智能叉车安全系统/登录.png</file>
+        <file>ui智能叉车安全系统/车辆选择.png</file>
+    </qresource>
+</RCC>
